@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suit-game/static/css/main.5f731200.css",
+    "main.js": "/suit-game/static/js/main.250f4a33.js",
+    "static/js/787.ddb6be96.chunk.js": "/suit-game/static/js/787.ddb6be96.chunk.js",
+    "index.html": "/suit-game/index.html",
+    "main.5f731200.css.map": "/suit-game/static/css/main.5f731200.css.map",
+    "main.250f4a33.js.map": "/suit-game/static/js/main.250f4a33.js.map",
+    "787.ddb6be96.chunk.js.map": "/suit-game/static/js/787.ddb6be96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f731200.css",
+    "static/js/main.250f4a33.js"
+  ]
+}
